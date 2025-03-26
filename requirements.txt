@@ -1,0 +1,4 @@
+gunicorn
+seaborn
+dash
+plotly
